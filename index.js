@@ -30,6 +30,6 @@ function greet(time) {
 /* Write your implementation of displayMessage() */
 function displayMessage(greet){
   const element = document.getElementById('greeting');
-  element.innerText='greet';
+  element.innerText=greet;
   
 }
