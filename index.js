@@ -1,4 +1,4 @@
-/* Given Code, don't edit */
+
 
 function handleClick(e) {
   const timeString = document.getElementById('time').value
