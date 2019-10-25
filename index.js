@@ -5,10 +5,6 @@ function handleClick(e) {
   displayMessage(greet(timeString))
 }
 
-/* End Given Code, don't edit above here...*/
-
-/* Write your implementation of greet() */
-/* Write your implementation of displayMessage() */
 function greet(time) {
   time = time.split(":");
   time = parseInt(time , 10);
@@ -24,7 +20,6 @@ function greet(time) {
     return "Good Evening";
   }
   
-  return "Error";
 }
 
   
