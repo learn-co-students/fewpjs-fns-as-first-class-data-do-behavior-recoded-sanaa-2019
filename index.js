@@ -12,7 +12,7 @@ function greet(e){
   
 }
 function displayMessage(mess){
-  let mes= document.getElementById("greeting");
+  let mes= document.getElementById("h1#greeting");
      mes.innerHTML= "Good";
 }
 /* End Given Code, don't edit above here...*/
