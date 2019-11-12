@@ -12,7 +12,7 @@ function greet(e){
   
 }
 function displayMessage(u){
-  let mes= document.getElementById("greeting");
+  let mes= document.querySalctor("h1#greeting");
      mes.innerHTML="sdgs"+ u;
 }
 /* End Given Code, don't edit above here...*/
