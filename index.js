@@ -13,7 +13,7 @@ function greet(e){
 }
 function displayMessage(u){
   let mes= document.getElementById("greeting");
-     mes.innerHTML+= u;
+     mes.innerHTML="sdgs"+ u;
 }
 /* End Given Code, don't edit above here...*/
 
