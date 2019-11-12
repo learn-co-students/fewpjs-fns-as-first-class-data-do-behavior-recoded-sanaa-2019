@@ -15,7 +15,7 @@ function displayMessage(mess){
   let mes= document.getElementById("greeting");
      mes.textContant= mess;
 }
-displayMessage("cool")
+displayMessage("cool");
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
