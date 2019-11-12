@@ -11,7 +11,7 @@ function greet(e){
   else {return "Good Evening";}
   
 }
-function displayMessage(u=""){
+function displayMessage(u){
      document.getElementById("greeting").innerHTML= u.toString();
 }
 /* End Given Code, don't edit above here...*/
