@@ -11,7 +11,7 @@ function greet(e){
   else {return "Good Evening";}
   
 }
-function displayMessage(u){
+function displayMessage(u=""){
   let mes= document.getElementById("h1#greeting");
      mes.innerHTML= u;
 }
