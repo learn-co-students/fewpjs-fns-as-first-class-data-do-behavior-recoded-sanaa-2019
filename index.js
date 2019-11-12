@@ -13,7 +13,7 @@ function greet(e){
 }
 function displayMessage(mess){
   let mes= document.getElementById("greeting");
-     mes.textContant= mess;
+     mes.innerHTML= mess;
 }
 displayMessage("cool");
 /* End Given Code, don't edit above here...*/
