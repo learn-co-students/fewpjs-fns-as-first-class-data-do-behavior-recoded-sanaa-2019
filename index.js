@@ -16,6 +16,7 @@ function displayMessage(mess){
      mes.innerHTML= mess;
 }
 
+
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
