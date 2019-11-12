@@ -12,7 +12,7 @@ function greet(e){
   
 }
 function displayMessage(u){
-     document.getElementById("greeting").innerHTML= u.toString();
+     document.getElementById("greeting").innerHTML= u;
 }
 /* End Given Code, don't edit above here...*/
 
