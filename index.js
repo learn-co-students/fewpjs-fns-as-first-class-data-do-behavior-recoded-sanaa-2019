@@ -12,7 +12,8 @@ function greet(e){
   
 }
 function displayMessage(u){
-     document.getElementById("greeting").innerHTML= u;
+  let mes= document.getElementById("greeting");
+     mes.innerHTML= u;
 }
 /* End Given Code, don't edit above here...*/
 
