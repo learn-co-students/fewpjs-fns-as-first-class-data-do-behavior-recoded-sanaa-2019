@@ -11,9 +11,9 @@ function greet(e){
   else {return "Good Evening";}
   
 }
-function displayMessage(u=""){
+function displayMessage(mess){
   let mes= document.getElementById("h1#greeting");
-     mes.innerHTML= u;
+     mes.innerHTML= mess;
 }
 /* End Given Code, don't edit above here...*/
 
